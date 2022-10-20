@@ -1,0 +1,12 @@
+.content {
+    background-color: #0D0D0D;
+    height: 12.6rem;
+    display: flex;
+
+}
+
+.content header {
+    margin: auto;
+    display: flex;
+    gap: 1rem;
+}
